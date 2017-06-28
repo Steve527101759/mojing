@@ -1,0 +1,45 @@
+body{
+	background-color: #68cdd5;
+}
+.textp{
+	color: #fff;
+}
+.container{
+	text-align: center;
+	margin-top: 80px;
+	margin-bottom: 100px;
+}
+.texto{
+	width: 70%;
+	margin: auto;
+	color: #fff;
+}
+.texty{
+	padding-top: 30px;
+}
+.textp{
+	display: block;
+}
+.first{
+	float: left;
+	text-align: center;
+}
+.first img{
+	margin-bottom: 10px;
+	width: 54px;
+	height: 54px;
+}
+.two{
+float: right;
+text-align: center;
+	
+}
+.two img{
+	margin-bottom: 10px;
+		width: 54px;
+	height: 54px;
+}
+.texty{
+	margin-bottom: 90px;
+}
+
