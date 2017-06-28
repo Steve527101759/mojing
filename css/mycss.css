@@ -42,4 +42,6 @@ text-align: center;
 .texty{
 	margin-bottom: 90px;
 }
-
+.login-tt{
+	text-decoration: none;
+}
